@@ -1,11 +1,18 @@
-- Hola, soy @Iago Lorenzo Manrique
-- Actualmente estoy aprendiendo pentesting de manera autodidacta
-- Mi principal interés es el red teaming
-- 📫 Puedes contactarme a través de lorenzomanriqueiago@gmail.com
+# Iago Lorenzo
 
---------------------------------------------------------------
-  
-- Hi, I’m @Iago Lorenzo Manrique
-- I’m currently learning pentesting on a self-taught basis.
-- Specifically interested in red teaming
-- 📫 How to reach me lorenzomanriqueiago@gmail.com
+Estudiante de Administración de Sistemas Informáticos en Red, especializado en pentesting y seguridad ofensiva.
+
+Actualmente continúo desarrollando mis conocimientos en:
+
+- Pentesting
+- Red Team
+- Linux
+- Seguridad web
+- Automatización con Python y Bash
+
+En este perfil publico herramientas, scripts y proyectos creados durante mi aprendizaje.
+
+## Contacto
+
+- [LinkedIn](https://www.linkedin.com/in/iago-lorenzo-manrique)
+- [Portfolio personal](https://iagolorenzo.github.io)
